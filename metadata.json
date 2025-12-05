@@ -1,0 +1,8 @@
+{
+  "name": "Gemini SuperChat",
+  "description": "A WhatsApp-style messaging application powered by Gemini. Features include 'Deep Think' mode for complex queries using Gemini 3 Pro, Veo video generation from images, and real-time voice conversations using the Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
